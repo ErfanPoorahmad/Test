@@ -17,7 +17,7 @@ namespace Digisegal.Controllers
         : base(unitOfWork, mapper)
         {
         }
-
+        //Test
         //[HttpPost]
         //[Route("CreateUser")]
         //public IActionResult CreateUser([FromBody] CreateUserDto user)
